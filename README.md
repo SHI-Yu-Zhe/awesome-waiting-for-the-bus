@@ -1,4 +1,4 @@
-# awesome-waiting-for-the-bus
+# Awesome Waiting for the Bus
 An **awesome** list for 'waiting for the bus problem', a classical topic in Cognitive Science.
 
 ## Blogs
