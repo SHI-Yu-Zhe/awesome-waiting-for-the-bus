@@ -13,7 +13,7 @@ An **awesome** list for 'waiting for the bus problem', a classical topic in Cogn
 
 * [Waiting for the bus: When base-rates refuse to be neglected](https://www.gwern.net/docs/statistics/bayes/2007-teigen.pdf) ***Cognition***, 2006.
 
-* []
+
 
 
 
