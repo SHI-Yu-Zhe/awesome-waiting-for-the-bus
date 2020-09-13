@@ -1,5 +1,5 @@
 # Awesome Waiting for the Bus [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-An **awesome** list for 'waiting for the bus problem', a classical topic in Cognitive Science.
+An **awesome** list for 'waiting for the bus problem', a classical multidisciplinary topic. Being in the main field of Cognitive Science, the complicated problem also can be viewed from the perspectives such as Psychology, Probability and Interactive Designing.
 
 ## Papers
 
