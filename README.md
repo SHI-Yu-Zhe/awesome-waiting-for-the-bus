@@ -15,6 +15,10 @@ Note that this 'waiting for the bus problem' is irrelavent with transportation e
 
 * [Waiting for the bus: When base-rates refuse to be neglected](https://www.gwern.net/docs/statistics/bayes/2007-teigen.pdf) ***Cognition***, 2006.
 
+* [A Computer Model of Bus-Waiting Problem](https://www.scientific.net/KEM.474-476.1263) ***Key Engineering Materials***, 2011.
+
+* [Research on Passenger’s Travel Mode Choice Behavior Waiting at Bus Station Based on SEM-Logit Integration Model](https://search.proquest.com/docview/2108754863?pq-origsite=summon) ***Sustainability***, 2018.
+
 ## Blogs
 
 * [Waiting time Paradox](https://jakevdp.github.io/blog/2018/09/13/waiting-time-paradox/)
