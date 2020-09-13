@@ -5,7 +5,6 @@ Note that this 'waiting for the bus problem' is irrelavent with transportation e
 
 ## Papers
 
-### A Psychology Perspective
 * [The Psychology of Waiting Lines](https://davidmaister.com/wp-content/themes/davidmaister/pdf/PsycholgyofWaitingLines751.pdf) ***The Service encounter: managing employee/customer interaction in service businesses. Lexington, MA: D. C. Heath and Company, Lexington Books.***, 1985.
 
 * [The Ups and Downs of the Hope Function in a Fruitless Search](https://www.gwern.net/docs/statistics/bayes/1994-falk) ***Subjective Probability***, 1994.
@@ -18,7 +17,14 @@ Note that this 'waiting for the bus problem' is irrelavent with transportation e
 
 ## Blogs
 
-### A Probability Perspective
-
 * [Waiting time Paradox](https://jakevdp.github.io/blog/2018/09/13/waiting-time-paradox/)
+
+## Related Work
+
+### Decision Theory
+
+* [Decisions with Incomplete Information](http://static.luiss.it/hey/ambiguity/papers/Weber_1987.pdf) ***European Journal of Operational Research***, 1987.
+
+* [Decisions With Uncertainty: The Glass Half Full](http://sage.cnpereading.com/paragraph/download/?doi=10.1177/0963721413481473) ***Current Directions in Psychologycal Science***, 2013.
+
 
