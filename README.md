@@ -27,7 +27,12 @@ Note that this 'waiting for the bus problem' is irrelavent with transportation e
 
 ## Related Work
 
+### Sentiment Analysis
+
+
 ### Decision Theory
+
+* [Emotion and Decision Making](https://www.annualreviews.org/doi/pdf/10.1146/annurev-psych-010213-115043) ***Annual Review of Psychology***, 2014.
 
 * [Decisions with Incomplete Information](http://static.luiss.it/hey/ambiguity/papers/Weber_1987.pdf) ***European Journal of Operational Research***, 1987.
 
