@@ -19,6 +19,8 @@ Note that this 'waiting for the bus problem' is irrelavent with transportation e
 
 * [Research on Passenger’s Travel Mode Choice Behavior Waiting at Bus Station Based on SEM-Logit Integration Model](https://search.proquest.com/docview/2108754863?pq-origsite=summon) ***Sustainability***, 2018.
 
+* [Opinion mining and sentiment analysis](http://www.cs.cornell.edu/home/llee/omsa/omsa.pdf) ***Foundations and Trends in Information Retrieval***, 2008.
+
 ## Blogs
 
 * [Waiting time Paradox](https://jakevdp.github.io/blog/2018/09/13/waiting-time-paradox/)
