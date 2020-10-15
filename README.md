@@ -25,6 +25,8 @@ Note that this 'waiting for the bus problem' is irrelavent with transportation e
 
 * [Waiting for service: modelling the effectiveness of service interventions](https://doi.org/10.1007/S11628-007-0030-2), ***Service Business***, 2008.
 
+* [Does real-time transit information reduce waiting time? An empirical analysis](https://linkinghub.elsevier.com/retrieve/pii/S0965856420307229), ***Transportation Research Part A-policy and Practice***, 2020.
+
 ## Blogs
 
 * [Waiting time Paradox](https://jakevdp.github.io/blog/2018/09/13/waiting-time-paradox/)
