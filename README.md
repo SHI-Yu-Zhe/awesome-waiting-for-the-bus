@@ -40,4 +40,6 @@ Note that this 'waiting for the bus problem' is irrelavent with transportation e
 
 * [Decisions With Uncertainty: The Glass Half Full](http://sage.cnpereading.com/paragraph/download/?doi=10.1177/0963721413481473) ***Current Directions in Psychologycal Science***, 2013.
 
+* [Time and Decision Making in Humans](https://doi.org/10.3758/CABN.8.4.509) ***Cognitive, Affective, & Behaviorial Neuroscience***, 2008. 
+
 
