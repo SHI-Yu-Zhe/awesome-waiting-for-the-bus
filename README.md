@@ -25,6 +25,7 @@ Note that this 'waiting for the bus problem' is irrelavent with transportation e
 
 * [The Effects of Duration Knowledge on Forecasted versus Actual Affective Experiences](https://academic.oup.com/jcr/article/38/3/525/1809117), ***Journal of Consumer Research***, 2011.
 
+
 ## Blogs
 
 * [Waiting time Paradox](https://jakevdp.github.io/blog/2018/09/13/waiting-time-paradox/)
