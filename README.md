@@ -23,6 +23,8 @@ Note that this 'waiting for the bus problem' is irrelavent with transportation e
 
 * [How Does Waiting Duration Information Influence Customers' Reactions to Waiting for Services?](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1559-1816.1996.tb00093.x), ***Journal of Applied Social Psychology***, 1996.
 
+* [Waiting for service: modelling the effectiveness of service interventions](https://doi.org/10.1007/S11628-007-0030-2), ***Service Business***, 2008.
+
 ## Blogs
 
 * [Waiting time Paradox](https://jakevdp.github.io/blog/2018/09/13/waiting-time-paradox/)
