@@ -21,6 +21,10 @@ Note that this 'waiting for the bus problem' is irrelavent with transportation e
 
 * [Opinion mining and sentiment analysis](http://www.cs.cornell.edu/home/llee/omsa/omsa.pdf) ***Foundations and Trends in Information Retrieval***, 2008.
 
+* [How Does Waiting Duration Information Influence Customers' Reactions to Waiting for Services?](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1559-1816.1996.tb00093.x), ***Journal of Applied Social Psychology***, 1996.
+
+* [The Effects of Duration Knowledge on Forecasted versus Actual Affective Experiences](https://academic.oup.com/jcr/article/38/3/525/1809117), ***Journal of Consumer Research***, 2011.
+
 ## Blogs
 
 * [Waiting time Paradox](https://jakevdp.github.io/blog/2018/09/13/waiting-time-paradox/)
