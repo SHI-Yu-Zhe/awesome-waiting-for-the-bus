@@ -39,6 +39,8 @@ Note that this 'waiting for the bus problem' is irrelavent with transportation e
 
 * [Measuring emotional valence to understand the user's experience of software](https://www.sciencedirect.com/science/article/pii/S1071581906001868?via%3Dihub), ***IJHCS***, 2006. [[Citations](https://academic.microsoft.com/paper/2040878866/citedby/search?q=Measuring%20emotional%20valence%20to%20understand%20the%20user%27s%20experience%20of%20software&qe=RId%253D2040878866&f=&orderBy=0)]
 
+* [Limitations of emotion recognition in software user experience evaluation context](https://doi.org/10.15439/2016F535), 2016.
+
 
 ### Decision Theory
 
