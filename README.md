@@ -33,7 +33,11 @@ Note that this 'waiting for the bus problem' is irrelavent with transportation e
 
 ## Related Work
 
-### Sentiment Analysis
+### Human Computer Interaction & Emotion Understanding
+
+* [Behaviour, realism and immersion in games](https://dl.acm.org/doi/10.1145/1056808.1056894), ***CHI'05***, 2005.
+
+* [Measuring emotional valence to understand the user's experience of software](https://www.sciencedirect.com/science/article/pii/S1071581906001868?via%3Dihub), ***IJHCS***, 2006.
 
 
 ### Decision Theory
