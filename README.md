@@ -35,11 +35,11 @@ Note that this 'waiting for the bus problem' is irrelavent with transportation e
 
 ### Human Computer Interaction & Emotion Understanding
 
-* [A Survey of Affect Recognition Methods: Audio, Visual, and Spontaneous Expressions], ***TPAMI***, 2008.
-
 * [Behaviour, realism and immersion in games](https://dl.acm.org/doi/10.1145/1056808.1056894), ***CHI'05***, 2005. [[Citations](https://academic.microsoft.com/paper/2152102206/citedby/search?q=Behaviour%2C%20realism%20and%20immersion%20in%20games&qe=RId%253D2152102206&f=&orderBy=0)]
 
 * [Measuring emotional valence to understand the user's experience of software](https://www.sciencedirect.com/science/article/pii/S1071581906001868?via%3Dihub), ***IJHCS***, 2006. [[Citations](https://academic.microsoft.com/paper/2040878866/citedby/search?q=Measuring%20emotional%20valence%20to%20understand%20the%20user%27s%20experience%20of%20software&qe=RId%253D2040878866&f=&orderBy=0)]
+
+* [A Survey of Affect Recognition Methods: Audio, Visual, and Spontaneous Expressions], ***TPAMI***, 2008.
 
 * [Limitations of emotion recognition in software user experience evaluation context](https://doi.org/10.15439/2016F535), 2016.
 
