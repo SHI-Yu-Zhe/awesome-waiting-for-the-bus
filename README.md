@@ -33,6 +33,10 @@ Note that this 'waiting for the bus problem' is irrelavent with transportation e
 
 ## Related Work
 
+### Emotion Inference
+
+* [Computational Models of Emotion Inference in Theory of Mind: A Review and Roadmap](https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12371), ***Topics in Cognitive Science***, 2018.
+
 ### Human Computer Interaction & Emotion Understanding
 
 * [Behaviour, realism and immersion in games](https://dl.acm.org/doi/10.1145/1056808.1056894), ***CHI'05***, 2005. [[Citations](https://academic.microsoft.com/paper/2152102206/citedby/search?q=Behaviour%2C%20realism%20and%20immersion%20in%20games&qe=RId%253D2152102206&f=&orderBy=0)]
